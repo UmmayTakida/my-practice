@@ -1,0 +1,56 @@
+.flex-container{
+    display: flex;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    margin-bottom: 5%;
+}
+.top{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+h2{
+    font-size: 40px;
+}
+div p{
+    font-size: 24px;
+}
+span{
+    color: blue;
+}
+#about{
+    color: crimson;
+}
+.half-width
+{
+    width:50%;
+    margin-top: 40px;
+    padding-left: 5%;
+    padding-right: 5%;;
+
+
+}
+.half-width img{
+    width: 70%
+    
+}
+#school{
+    box-shadow: black 10px 10px 40px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+    border-radius: 10px;
+}
+.bord{
+    border-image: linear-gradient(cyan, red);
+    border-image-slice: 1;
+    border-left: 10px dotted;
+}
+footer p{
+    text-align: center;
+}
